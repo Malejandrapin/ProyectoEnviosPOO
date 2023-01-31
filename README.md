@@ -4,7 +4,7 @@ Proyecto realizado para la materia de Programación Orientada a Objetos en la Un
 ---
 **Fase 1**
 
-Se lee el problema dado y se hace levantamiendo de requisitos funcionales y no funcionales
+Se lee el problema dado y se hace levantamiento de requisitos funcionales y no funcionales
 
 **Fase 2**
 
